@@ -1,5 +1,6 @@
 # markit
 ## 开发列表
+当前开发版本v0.0.3-alpha
 本软件开源，持续优化无广告。目前还在开发当中，请耐心等待后续的测试版本发布。
 
 开发版本更新release地址: [markit-updater-test](https://github.com/heiyehk/markit-updater-test/releases)  目前支持更新，release包在该项目中，后续测试版本将会删除该仓库并转移至当前且开源。
