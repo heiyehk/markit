@@ -2,7 +2,7 @@
 ## 开发列表
 当前开发版本v0.0.4-alpha
 
-未来正式版本开源地址：** [markit](https://github.com/heiyehk/markit) **
+未来正式版本开源地址：**[markit](https://github.com/heiyehk/markit)**
 
 本软件开源，持续优化无广告。目前还在开发当中，请耐心等待后续的测试版本发布。
 
